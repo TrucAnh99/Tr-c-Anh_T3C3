@@ -6,6 +6,7 @@ Xin chào, mình là Trúc Anh, mssv: 22DH114005
 Mô Tả
 TerraceApp là một ứng dụng bán đồ uống trực tuyến cho phép người dùng đặt hàng các loại đồ uống như trà sữa, cà phê, sinh tố, và nước ép. Ứng dụng mang đến trải nghiệm người dùng dễ dàng với giao diện thân thiện và tính năng tìm kiếm sản phẩm nhanh chóng, thức uống phù hợp giá cả với học sinh, sinh viên
 Terrace được lấy cảm hứng từ ruộng bậc thang, có màu sắc chủ đạo như: xanh lá- vàng- nâu, tượng trưng cho màu sắc của thiên nhiên
+
 ![image](https://github.com/user-attachments/assets/71bff9ef-0afe-4895-be33-3e7499257829)
 
 Tính Năng ✨
