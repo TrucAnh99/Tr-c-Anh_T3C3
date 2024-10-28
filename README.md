@@ -10,12 +10,19 @@ Terrace được lấy cảm hứng từ ruộng bậc thang, có màu sắc ch�
 ![image](https://github.com/user-attachments/assets/71bff9ef-0afe-4895-be33-3e7499257829)
 
 Tính Năng ✨
+
 🔐 Đăng ký & Đăng nhập: Người dùng có thể đăng ký tài khoản và đăng nhập bằng email.
+
 🛍️ Xem danh sách sản phẩm: Hiển thị các loại đồ uống với hình ảnh, mô tả và giá.
+
 🔍 Tìm kiếm sản phẩm: Cho phép tìm kiếm nhanh các loại đồ uống yêu thích.
+
 🛒 Giỏ hàng: Quản lý các sản phẩm đã chọn và xem tổng giá tiền.
+
 💳 Thanh toán: Nhập thông tin giao hàng và hoàn tất đơn hàng.
+
 🎁 Khuyến mãi: Sử dụng mã giảm giá để nhận ưu đãi khi mua hàng.
+
 🔑 Cập nhật mật khẩu: Cập nhật lại mật khẩu nếu muốn mật khẩu khác dễ nhớ hơn.
 
 ## 🌐Socials
